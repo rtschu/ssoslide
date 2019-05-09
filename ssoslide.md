@@ -25,5 +25,5 @@ werden und zB ein Session Hjacking fehlschlägt, solange der Browser vertrauensw
 Seite in der Domäne an, so sendet der Browser die Authentifizierungsdaten direkt mit. Der angesprochene Server agiert
 als Proxy, er identifiziert zunächst den angeforderten Dienst und dessen Server, überprüft dann die Identität des 
 Servers und leitet erst hiernach die Authentifizierungsdaten des Nutzers weiter.\
-![Datenaustausch zwischen sso server, client und dienst server](images/grafik_single_sign_on.png)
+![Datenaustausch zwischen sso server, client und dienst server](images/grafik_single_sign_on.png)\
 Quelle : <a>https://www.uni-muenster.de/ZIV/Technik/WWW/Single_Sign_On.html</a>
