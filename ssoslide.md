@@ -16,7 +16,7 @@ Um das SSO zu benutzen, ersetze einfach das `www` der URL eines Teilnehmenden Di
 einmalig anmelden, danach bist du bei allen SSO Diensten angemenldet, bis du deinen Browser schließt.\
 ![Anmeldebox](images/loginbox.png "Authentifizierungsaufforderung") <br />
 Viele Seiten bieten auch neben dem normalen Login Knopf einen speziellen SSO login Knopf. \
-![SSO Button](images/SSOButton.png "SSO Login Button des Learnwebs)
+![SSO Button](images/SSOButton.png "SSO Login Button des Learnwebs")
 
 # Hintergrundinformationen
 Das Single Sign On funktioniert indem dem Browser vorgegaukelt wird alle Dienste befänden sich am gleichen Punkt, 
