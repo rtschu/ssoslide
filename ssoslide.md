@@ -10,23 +10,12 @@ die größeren Dienste wie meinZIV, das Learnweb oder der Maildienst perMail, ab
 fachbereichspezifische Dienste.
 
 # Nutzung
-Um das SSO zu benutzen, ersetze einfach das `www` der url eines Teilnehmenden Dienstes  durch `sso` zB wird\
+Um das SSO zu benutzen, ersetze einfach das `www` der URL eines Teilnehmenden Dienstes  durch `sso` zB wird\
 `https://www.uni-muenster.de/LearnWeb/learnweb2/` zu `https://sso.uni-muenster.de/LearnWeb/learnweb2/`\
 ![url mit wwu](images/sso_learnweb.png) <br />
 \
 Wenn du das erste mal seit du deinen Browser geöffnet hast auf eine Seite mit SSO zugreifen willst so musst du dich
 einmalig anmelden, danach bist du bei allen SSO Diensten angemenldet, bis du deinen Browser schließt.\
-![Anmeldebox](images/loginbox.png "Authentifizierungsaufforderung")
-
-# Nutze ich SSO?
-Wahrscheinlich nutzt du das SSO schon ohne es aktiv zu merken. Schau dir die URL in deinem Browserfenster an, sämtliche
-Dienste die das SSO benutzen liegen auf einem einzigen virtuellen Punkt `sso.wwu-muenster.de`,
-wenn du also eine Seite
-besuchst deren URL mit `sso.wwu-muenster.de` beginnt, kannst du dir sicher sein, dass diese das SSO der WWU verwendet.\
-Beispielsweise verwendest du hier SSO bereits \
-![url mit wwu](images/sso_learnweb.png)<br />
-Solltest du auf einer Seite der WWU sein, die das SSO unterstützt aber mit www beginnt, so ist die einfachste
-Möglichkeit, auf die SSO version zu wechseln das ersetzen des `www.uni-muenster.de` durch `sso.uni-muenseter.de`.\
 Viele Seiten bieten auch neben dem normalen Login Knopf einen speziellen SSO login Knopf.
 
 # Hintergrundinformationen
