@@ -15,7 +15,7 @@ Um das SSO zu benutzen, ersetze einfach das `www` der URL eines Teilnehmenden Di
  das erste mal seit du deinen Browser geöffnet hast auf eine Seite mit SSO zugreifen willst so musst du dich
 einmalig anmelden, danach bist du bei allen SSO Diensten angemenldet, bis du deinen Browser schließt.\
 ![Anmeldebox](images/loginbox.png "Authentifizierungsaufforderung")
-Viele Seiten bieten auch neben dem normalen Login Knopf einen speziellen SSO login Knopf.
+Viele Seiten bieten auch neben dem normalen Login Knopf einen speziellen SSO login Knopf. \
 ![SSO Button](images/SSO Button.png "SSO Login Button des Learnwebs)
 
 # Hintergrundinformationen
